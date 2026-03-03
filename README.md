@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Tireni 👋<br><br>Full-stack developer building scalable backend systems and applying statistical reasoning to machine learning.<br><br>---<br><br>## 🚀 Current Projects<br><br>### 🔹 Full-Stack Task Manager<br>- Django backend<br>- PostgreSQL database<br>- Dockerized infrastructure<br>- API-first design<br>- Preparing React frontend<br><br>Designed with reproducibility and deployment in mind.<br><br>---<br><br>### 🔹 Exploratory Data Analysis + ML Project<br>- Data cleaning & feature engineering<br>- Applied probability concepts<br>- Baseline modeling & evaluation<br>- Clear documentation & reproducibility<br><br>---<br><br>## 📚 Currently Learning<br><br>**Primary Track (Full-Stack)**<br>- SQL design & optimization<br>- RESTful APIs<br>- Modern JavaScript<br>- React fundamentals<br>- Docker orchestration<br>- AWS deployment basics<br><br>**Secondary Track (ML)**<br>- Statistical reasoning<br>- Model evaluation techniques<br>- Practical probability<br><br>---<br><br>## 🤝 Looking to Collaborate On<br>- Machine learning projects<br>- Backend-heavy applications<br>- Data-driven tools<br><br>---<br><br>## 🛠 Looking for Help With<br>- Advanced system design<br>- Scaling backend systems<br>- Integrating ML models into production apps<br><br>---<br><br>## 💬 Ask Me About<br>- Docker + Django setup<br>- Backend architecture decisions<br>- Learning strategies for SWE + ML<br><br>---<br><br>## ⚡ Fun Facts<br>- Minor in Statistics & Mathematics<br>- Star Wars fan<br>- Manchester City supporter<br>- I enjoy turning abstract theory into working systems<br><br>---<br><br>Currently focused on shipping real, reproducible systems.
 
-<!--
-**danielbkuti/danielbkuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tirenikuti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tbk022) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielbiodunkuti@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danielbkuti&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=danielbkuti&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbkuti&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
