@@ -1,5 +1,33 @@
 # 💫 About Me:
-Hi, I’m Tireni, you can call me Daniel 👋<br><br>Full-stack developer focused on backend systems and applied machine learning.<br><br>🚀 Building<br><br> - Dockerized Django + PostgreSQL task manager<br> - EDA + ML project (feature engineering, baseline models, evaluation)<br><br>📚 Learning<br><br> - SQL, REST APIs, JavaScript, React<br> - Docker & cloud deployment<br> - Applied probability for ML<br><br>🤝 Open to collaborate on<br><br> - Machine learning projects<br> - Backend-driven applications<br><br>⚡ Fun facts<br><br> - Minor in Statistics & Math<br> - Star Wars fan<br> - Manchester City supporter<br><br>Focused on shipping clean, reproducible systems.<br>
+Hi, I’m Tireni — you can call me Daniel 👋
+
+Full-stack developer focused on backend systems and applied machine learning.
+
+## 🚀 Building
+
+* Dockerized Django + PostgreSQL task manager
+* EDA + ML project (feature engineering, baseline models, evaluation)
+
+## 📚 Learning
+
+* SQL, REST APIs, JavaScript, React
+* Docker & cloud deployment
+* Applied probability for ML
+
+## 🤝 Open to collaborate on
+
+* Machine learning projects
+* Backend-driven applications
+
+## ⚡ Fun facts
+
+* Minor in Statistics & Math
+* Star Wars fan
+* Manchester City supporter
+
+Focused on shipping clean, reproducible systems.
+
+
 
 
 ## 🌐 Socials:
