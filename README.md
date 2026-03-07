@@ -23,8 +23,7 @@ Full-stack developer focused on backend systems and applied machine learning.
 
 * Minor in Statistics & Math
 * Huge animation fan
-* Manchester City supporter <img src="images/Manchester_City_FC_badge.svg" height="20" width="20" style="vertical-align: middle;"> #CTID
-
+* Manchester City supporter <img src="images/Manchester_City_FC_badge.svg" height="20" style="vertical-align: -3px;"> #CTID
 Focused on shipping clean, reproducible systems.
 
 
