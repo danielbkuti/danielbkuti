@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦆 About Me:
 Hi, I’m Tireni — you can call me Daniel 👋
 
 Full-stack developer focused on backend systems and applied machine learning.
@@ -22,8 +22,8 @@ Full-stack developer focused on backend systems and applied machine learning.
 ## ⚡ Fun facts
 
 * Minor in Statistics & Math
-* Star Wars fan
-* Manchester City supporter
+* Huge animation fan
+* Manchester City supporter [Man City Logo](https://en.wikipedia.org/wiki/Manchester_City_F.C.#/media/File:Manchester_City_FC_badge.svg) #CTID
 
 Focused on shipping clean, reproducible systems.
 
